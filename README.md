@@ -45,4 +45,8 @@ cd Bubble-Game
 3. For each correct click, your score will increase.
 4. The game continues with new numbers and bubbles for more challenges.
 
+## 📸 Screenshots
+
+<img src="https://github.com/abhay08-k09/Bubble-Game/blob/main/Demo/Bubble.png" width="90%" />
+
 Feel free to reach out if you have any queries or need assistance with the project.
